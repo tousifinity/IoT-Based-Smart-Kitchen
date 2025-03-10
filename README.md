@@ -35,7 +35,7 @@ An ESP8266-based smart kitchen monitoring and automation system with real-time a
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/iot-based-smart-kitchen.git
+   git clone https://github.com/tousifinity/iot-based-smart-kitchen.git
    cd iot-based-smart-kitchen
    ```
 2. Open the project in Arduino IDE.
